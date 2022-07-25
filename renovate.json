@@ -1,0 +1,6 @@
+{
+    "semanticCommits": "enabled",
+    "commitMessageAction": "",
+    "commitMessageTopic": "{{depName}}",
+    "commitMessageExtra": "v{{newVersion}}"
+}
